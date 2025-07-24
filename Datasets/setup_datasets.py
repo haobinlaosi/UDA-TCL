@@ -1,4 +1,3 @@
-```python
 #!/usr/bin/env python3
 """
 Dataset setup script for UDA-TCL experiments
@@ -27,4 +26,4 @@ def download_datasets():
         
 if __name__ == "__main__":
     download_datasets()
-```
+

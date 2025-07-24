@@ -1,5 +1,9 @@
 Due to file size limitations, datasets are not included directly in this repository. Please download the datasets using the provided setup script:
-bashpython setup_datasets.py
+
+
+```bash
+python setup_datasets.py
+```
 
 # Dataset Sources:
 

@@ -17,3 +17,6 @@ UDA-TCL (Unsupervised Domain Adaptation Time patch Contrastive Learning) is a no
 
 # Code Availability
 The complete source code implementation will be made publicly available upon paper acceptance. This repository currently contains the datasets, preprocessing utilities, and experimental setup to facilitate reproducibility.
+
+# Reproducibility 
+This repository contains the datasets and basic processing scripts used in our experiments. Complete implementation code will be made available upon paper acceptance.
